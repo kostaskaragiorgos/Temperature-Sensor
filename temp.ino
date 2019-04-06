@@ -13,9 +13,10 @@ void loop() {
   reading = analogRead(TMP36);  
   voltage = (reading * 5.0)/1024;
  temperatureC = (voltage - 0.5) * 100 ;
- if (temperatureC > 20){
  Serial.print(temperatureC); Serial.println(" degrees C");
- 
  delay(time);
+ if (temperatureC > 20){
+  Serial.print("HIGH TEMPERATURE")
+
  }
 }
