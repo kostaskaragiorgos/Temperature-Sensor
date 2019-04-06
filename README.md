@@ -16,3 +16,7 @@
 **Breadboard**
 
 <p><img src ="board.jpg" title = "Breadboard"/> </p>
+
+## CONNECTION
+
+<p><img src ="conn.jpg" title = "CONNECTION"/> </p> 
