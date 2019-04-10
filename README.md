@@ -17,6 +17,9 @@
 
 <p><img src ="board.jpg" title = "Breadboard"/> </p>
 
+**Button**
+<p><img src = "button.jpg" title = "Button"/> </p>
+
 ## CONNECTION
 
 <p><img src ="conn.jpg" title = "CONNECTION"/> </p> 
