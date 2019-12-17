@@ -1,5 +1,12 @@
 # Temperature-Sensor
+
 **Measuring temperature using the  TMP36 temperature sensor and an arduino uno**
+
+## FILES
+<ul>
+  <li>.ino files(code files)</li>
+  <li>.jpg files </li>
+</ul>
 
 ## WHAT YOU NEED
 **Arduino Uno**
